@@ -1,5 +1,5 @@
 {
-  "name": "release",
+  "name": "release-test3",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@release-it/conventional-changelog": "^7.0.1",
     "git-cz": "^4.9.0",
     "release-it": "^16.1.5"
   }
