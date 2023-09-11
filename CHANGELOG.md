@@ -1,5 +1,7 @@
 
 
+## [1.1.2](https://github.com/roy-kang/test-release/compare/1.1.1...1.1.2) (2023-09-11)
+
 ## [1.1.1](https://github.com/roy-kang/test-release/compare/1.1.0...1.1.1) (2023-09-11)
 
 ## 1.1.0 (2023-09-11)
