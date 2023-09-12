@@ -8,6 +8,9 @@
     "release": "release-it",
     "commit": "git-cz"
   },
+  "files": [
+    "index.js"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
