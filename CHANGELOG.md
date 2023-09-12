@@ -1,5 +1,17 @@
 
 
+## [3.0.0](https://github.com/roy-kang/test-release/compare/2.0.0...3.0.0) (2023-09-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* null
+
+### Bug Fixes
+
+* modified package.json ([75594ef](https://github.com/roy-kang/test-release/commit/75594efb1ab771ad30149df5e6f02be2ed421375))
+* xxs ([fe1c976](https://github.com/roy-kang/test-release/commit/fe1c9760c10972689cbc7317669b0f78b6405750))
+
 ## [2.0.0](https://github.com/roy-kang/test-release/compare/1.2.1...2.0.0) (2023-09-12)
 
 
