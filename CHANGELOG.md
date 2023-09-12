@@ -1,5 +1,16 @@
 
 
+## [2.0.0](https://github.com/roy-kang/test-release/compare/1.2.1...2.0.0) (2023-09-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* xx
+
+### Bug Fixes
+
+* add config txd ([ce9104d](https://github.com/roy-kang/test-release/commit/ce9104d081c24a59b7a2e91fa7011075162f79cc))
+
 ## [1.2.1](https://github.com/roy-kang/test-release/compare/1.2.0...1.2.1) (2023-09-12)
 
 
