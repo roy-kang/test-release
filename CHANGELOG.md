@@ -1,5 +1,12 @@
 
 
+## [1.2.1](https://github.com/roy-kang/test-release/compare/1.2.0...1.2.1) (2023-09-12)
+
+
+### Bug Fixes
+
+* add config for changelog ([7104a2c](https://github.com/roy-kang/test-release/commit/7104a2c2aa6de57d30028b885c01649795e8567b))
+
 ## [1.2.0](https://github.com/roy-kang/test-release/compare/1.1.2...1.2.0) (2023-09-12)
 
 
