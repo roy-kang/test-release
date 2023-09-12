@@ -14,8 +14,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  },
   "devDependencies": {
     "@release-it/conventional-changelog": "^7.0.1",
+    "commitizen": "^4.3.0",
     "git-cz": "^4.9.0",
     "release-it": "^16.1.5"
   }
